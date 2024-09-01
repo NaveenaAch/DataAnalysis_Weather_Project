@@ -1,0 +1,44 @@
+/*#top{
+    border: 5px solid blue;
+    width: 25%;
+    text-align: center;
+    margin: auto;
+    
+}
+#Bottom{
+    border: 5px double pink;
+width: 20%;
+padding: 2em;
+text-align: center;
+margin: auto
+}
+*/
+
+td{
+   background-color: black;
+   height: 150px;
+   width: 100px;
+   
+}
+.auto{
+    margin: auto;
+}
+.one{
+    background-color: blue;
+}
+.two{
+   background-color: aquamarine; 
+}
+.three{
+    background-color: bisque;
+}
+.four{
+    background-color: chartreuse;
+}
+.five{
+    background-color: deeppink;
+}
+h1{
+    text-align: center;
+    
+}
